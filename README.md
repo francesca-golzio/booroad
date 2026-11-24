@@ -1,5 +1,6 @@
 # 🗺️ BooRoad
-repository: [`booroad`](https://github.com/francesca-golzio/booroad)
+*🌐 website: [BooRoad](https://francesca-golzio.github.io/booroad/)<br>
+📁 repository: [francesca-golzio/booroad](https://github.com/francesca-golzio/booroad)*
 
 BooRoad is a small React Web App for managing group trips and the people who join them. Browse a list of trips, open a trip to see its details and travellers, and add new trips or new travellers through simple forms.
 
@@ -24,5 +25,4 @@ This is a group project, developed for the Boolean Web Development Master, by
 - [@odon-airoldi](https://github.com/odon-airoldi)
 - and me, [@francesca-golzio](https://github.com/francesca-golzio)
 
-[1] My main responsability has been the form that lets you create a new trip.‎
- 
+[1] My main responsability has been the form that lets you create a new trip.
